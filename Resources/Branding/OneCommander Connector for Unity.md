@@ -1,0 +1,5 @@
+<strong>OneCommander Connector for Unity</strong> is a Unity plugin that allows you to view and open files and folders in OneCommander from your Unity project. Use quick access buttons and context menu options to quickly and easily view paths in OneCommander, or any other file manager, utilising extensive custom configuration options. Using this tool, directly bypasses Unity's traditional method of opening the file explorer, which can be slow and cumbersome, as it often displays a 20 second progress bar even when the file explorer is already open. This plugin is compatible with Unity 2018.3 and above.
+<br /><br />
+Don't have OneCommander? Download it here: <a href="https://onecommander.com">https://onecommander.com</a>
+<br /><br />
+This is a third-party plugin, and is not affiliated with Unity Technologies or OneCommander. For help and support, please <a href="mailto:codychook@gmail.com">contact the plugin developer</a>, not OneCommander. Permission was granted by OneCommander to use the OneCommander logo and name in this plugin.
