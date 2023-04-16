@@ -11,7 +11,7 @@
 
 <em> Quickly view and open files and folders in OneCommander from your Unity project. </em>
 
-<iframe src="https://assetstore.unity.com/linkmaker/embed/package/247753/widget-wide?aid=1011lvXjM" style="width:600px; height:130px; border:0px;"></iframe>
+[![OneCommander Connector for Unity on Unity Asset Store](https://github.com/Neonalig/OneCommander-Connector-for-Unity/blob/main/Resources/Branding/AssetStore.png?raw=true)](https://assetstore.unity.com/packages/tools/utilities/onecommander-connector-for-unity-247753?aid=1011lvXjM)
 
 </span>
 
